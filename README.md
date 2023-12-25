@@ -1,2 +1,3 @@
-Tasky
+## Tasky
+
 A simple task manager
